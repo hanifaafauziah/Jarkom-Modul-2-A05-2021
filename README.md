@@ -273,5 +273,8 @@ Setelah itu, Luffy juga membutuhkan agar url www.franky.yyy.com/index.php/home d
 ## Soal 10 
 Setelah itu, pada subdomain www.super.franky.yyy.com, Luffy membutuhkan penyimpanan aset yang memiliki DocumentRoot pada /var/www/super.franky.yyy.com
 
+## Kendala
+Laptop Adi tidak bisa install virtual box. Error ended prematurely
+
 
 
