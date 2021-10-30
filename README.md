@@ -258,11 +258,14 @@ Memodifikasi config pada `/etc/bind/sunnygo/mecha.franky.a05.com`
 Setelah melakukan konfigurasi server, maka dilakukan konfigurasi Webserver. Pertama dengan webserver www.franky.yyy.com. Pertama, luffy membutuhkan webserver dengan DocumentRoot pada /var/www/franky.yyy.com.
 
 ### Jawaban : 
+![no8](https://user-images.githubusercontent.com/42856438/139535729-f6cb112b-9132-40ce-8755-fc1ca960699c.jpg)
 
 ## Soal 9
 Setelah itu, Luffy juga membutuhkan agar url www.franky.yyy.com/index.php/home dapat menjadi menjadi www.franky.yyy.com/home. 
 
 ### Jawaban : 
+![no9](https://user-images.githubusercontent.com/42856438/139535740-b6b06373-7177-4c9a-893d-efb279f052b7.jpg)
+
 
 ## Soal 10 
 Setelah itu, pada subdomain www.super.franky.yyy.com, Luffy membutuhkan penyimpanan aset yang memiliki DocumentRoot pada /var/www/super.franky.yyy.com
