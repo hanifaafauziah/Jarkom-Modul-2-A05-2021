@@ -258,6 +258,9 @@ Memodifikasi config pada `/etc/bind/sunnygo/mecha.franky.a05.com`
 Setelah melakukan konfigurasi server, maka dilakukan konfigurasi Webserver. Pertama dengan webserver www.franky.yyy.com. Pertama, luffy membutuhkan webserver dengan DocumentRoot pada /var/www/franky.yyy.com.
 
 ### Jawaban : 
+
+Memodifikasi config pada `/etc/apache2/sites-available/000-default.conf di Skypie`
+
 ![no8](https://user-images.githubusercontent.com/42856438/139535729-f6cb112b-9132-40ce-8755-fc1ca960699c.jpg)
 
 ## Soal 9
