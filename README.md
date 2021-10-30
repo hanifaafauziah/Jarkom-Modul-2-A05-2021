@@ -194,13 +194,13 @@ Pada **EniesLobby**
 
 Menambahkan konfigurasi BIND data pada /etc/bind/kaizoku/franky.a05.com
 
-``
+```
   ns1     IN  A       192.171.2.3
   
   mecha   IN  NS      ns1
   
   www     IN  CNAME   ns1
-``
+```
 
 Mengedit `/etc/bind/named.conf.options` dengan `menambahkan allow-query{any;};` dan mengkomen `dnssec-validation auto;`.
 
@@ -249,6 +249,11 @@ www     IN      CNAME   mecha.franky.a05.com.
  Untuk memperlancar komunikasi Luffy dan rekannya, dibuatkan subdomain melalui Water7 dengan nama general.mecha.franky.yyy.com dengan alias www.general.mecha.franky.yyy.com yang mengarah ke Skypie
   
 ### Jawaban : 
+
+Memodifikasi config pada `/etc/bind/sunnygo/mecha.franky.a05.com`
+
+![image](https://user-images.githubusercontent.com/80946219/139534757-fb0d6ab4-450f-4503-9ac4-e7dffcf15948.png)
+
 
 ## Soal 8
 
