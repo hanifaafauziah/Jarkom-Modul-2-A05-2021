@@ -254,26 +254,3 @@ Memodifikasi config pada `/etc/bind/sunnygo/mecha.franky.a05.com`
 
 ![image](https://user-images.githubusercontent.com/80946219/139534757-fb0d6ab4-450f-4503-9ac4-e7dffcf15948.png)
 
-
-## Soal 8
-
-  
-### Jawaban : 
-
-
-## Soal 9
-
-  
-### Jawaban : 
-
-## Soal 10
-
-  
-### Jawaban : 
-
-
-## Soal 11
-
-  
-### Jawaban : 
-
